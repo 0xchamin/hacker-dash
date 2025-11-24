@@ -58,7 +58,7 @@ Type what you want. Get a working dashboard. Instantly.
 
 ![Hacker Dash](img/img1.jpeg)
 ![Hacker Dash](img/img2.jpeg)
-![Hacker Dash](img/img1.png)
+![Hacker Dash](img/img2.png)
 ![Hacker Dash](img/img1.png)
 
 ## 🤝 Contributing
