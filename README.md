@@ -56,7 +56,7 @@ Type what you want. Get a working dashboard. Instantly.
 
 ## 📸 Examples
 
-*Coming soon - add your screenshots here!*
+![title](Images/example.png)
 
 ## 🤝 Contributing
 
