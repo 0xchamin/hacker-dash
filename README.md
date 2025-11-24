@@ -56,7 +56,10 @@ Type what you want. Get a working dashboard. Instantly.
 
 ## 📸 Examples
 
-![Hacker Dash](img/img1.jpg)
+![Hacker Dash](img/img1.jpeg)
+![Hacker Dash](img/img2.jpeg)
+![Hacker Dash](img/img1.png)
+![Hacker Dash](img/img1.png)
 
 ## 🤝 Contributing
 
