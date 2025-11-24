@@ -1,0 +1,20 @@
+[project]
+name = "hacker-dash"
+version = "0.1.0"
+description = "Prompt-to-Product for the Terminal"
+requires-python = ">=3.10"
+dependencies = [
+    "typer",
+    "anthropic",
+    "rich",
+    "python-dotenv",
+    "platformdirs",
+    "google-generativeai"
+]
+
+[project.scripts]
+hacker-dash = "hacker_dash.main:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
